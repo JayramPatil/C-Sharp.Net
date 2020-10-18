@@ -1,0 +1,21 @@
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\bin\Debug\Practice Assignment1.exe.config
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\bin\Debug\Practice Assignment1.exe
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\bin\Debug\Practice Assignment1.pdb
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.Properties.Resources.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice Assignment1.csproj.GenerateResource.cache
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice Assignment1.csproj.CoreCompileInputs.cache
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice Assignment1.exe
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice Assignment1.pdb
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.frm_Login.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice Assignment1.csprojAssemblyReference.cache
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.frm_Add.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.View_Students.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.Search.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.MDI_Form.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.Update.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.Delete.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.Add_Professor.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.ViewAllProfessors.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.Search_Professor.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.Update_Professor.resources
+D:\Study Material\Visual Studio\.Net Projects\Practice Assignment1\Practice Assignment1\obj\Debug\Practice_Assignment1.Delete_Professor.resources
